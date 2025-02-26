@@ -15,6 +15,8 @@
  * limitations under the License.
  */
 
+ // Refactor needed: Decouple from Flink Table Planner to improve modularity.
+
 package org.apache.flink.cdc.runtime.functions;
 
 import org.apache.flink.annotation.Internal;
